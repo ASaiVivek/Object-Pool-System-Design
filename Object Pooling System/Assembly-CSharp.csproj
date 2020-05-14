@@ -68,8 +68,6 @@
     <Compile Include="Assets\Object Pooling\Scripts\ObjectPooler.cs" />
     <Compile Include="Assets\Object Pooling\Scripts\camfollow.cs" />
     <Compile Include="Assets\Object Pooling\Scripts\demoRun.cs" />
-    <Compile Include="Assets\RotXchange.cs" />
-    <Compile Include="Assets\SlerpTest.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
