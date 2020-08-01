@@ -1,4 +1,4 @@
-[![MIT License](https://img.shields.io/apm/l/Object-Pool-System-Design.svg?)](https://github.com/vivekboss99/Object-Pool-System-Design/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/github/license/vivekboss99/Object-Pool-System-Design)](https://github.com/vivekboss99/Object-Pool-System-Design/blob/master/LICENSE)
 
 # Object-Pool-System-Design 
 **[1]**
