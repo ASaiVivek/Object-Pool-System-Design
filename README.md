@@ -9,3 +9,9 @@ This is a endless platform spawner, can be used in any hyper-casual game.
 _**-Object Pool System in Action!**
 
 ... *will be updated with more object pooling designs*
+
+<br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/bstevensondev.svg?style=social)](https://twitter.com/SAI_VIVEK_)
+<br>
+[![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/vivekboss99) 
+
